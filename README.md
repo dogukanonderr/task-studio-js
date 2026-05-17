@@ -39,7 +39,7 @@ Netlify linki yayin sonrasi eklenecek.
 
 ## GitHub
 
-GitHub repo linki yayin sonrasi eklenecek.
+https://github.com/dogukanonderr/task-studio-js
 
 ## Ekran Goruntusu
 
