@@ -35,7 +35,7 @@ npm run build
 
 ## Canli Demo
 
-Netlify linki yayin sonrasi eklenecek.
+https://task-studio-dogukan.netlify.app
 
 ## GitHub
 
